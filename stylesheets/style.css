@@ -68,6 +68,11 @@ body
   padding-bottom: 20%;
 }
 
+.navigation
+{
+  padding-top: 1%;
+}
+
 .footer
 {
   background-image: url("../res/footer.png");
